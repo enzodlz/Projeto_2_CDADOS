@@ -22,3 +22,7 @@ Os efeitos causados pelos jogos eletrônicos podem ser bastante positivos quando
 ![Python](https://img.shields.io/badge/Python-2D7DB1?style=for-the-badge&logo=python&logoColor=yellow)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-2D7DB1?style=for-the-badge&logo=jupyter&logoColor=yellow)
+
+# Bibliografia:
+- https://ensinandomaquinasblog.wordpress.com/2017/12/15/modelos-preditivos-de-notas-de-redacao-do-enem-2015/
+- Muller,Andreas e Guido,Sarah ; Introduction to Machine Learning with Python , 1° Edição , editora O'Reilly Media , 2016.
